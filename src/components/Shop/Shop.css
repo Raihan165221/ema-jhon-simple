@@ -1,0 +1,17 @@
+.product-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.products{
+    margin-left: 150px;
+    border-right: 1px solid rgb(117, 103, 103);
+}
+
+.order{
+    text-align: center;
+    position: fixed;
+    top: 20%;
+    left: 81%;
+    
+}
